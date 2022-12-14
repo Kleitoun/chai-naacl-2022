@@ -5,7 +5,7 @@ This repository contains the code for [[https://siddharthverma314.github.io/rese
 
 [[./chai.png]]
 
-* Colab link used to run the provided code: https://colab.research.google.com/drive/1zcmSAuAAFTZM74SLPZPduXnb2WUMdB57#scrollTo=E_RGCnjrsJ87
+* Colab link used by Mahdi and Frank to run the provided code: https://colab.research.google.com/drive/1zcmSAuAAFTZM74SLPZPduXnb2WUMdB57#scrollTo=E_RGCnjrsJ87
 
 * Installation Steps
 The minimum python version required for this repo is =3.8=. Install this package by running the following command in the main directory:
