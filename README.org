@@ -2,7 +2,7 @@
 
 Here is the colab link that was used in order to run the code: https://colab.research.google.com/drive/1pl0Udw5RYj_Wg3mC7Y2OU_zIWHw9YpWz?usp=sharing
 
-#+TITLE: CHAI: A CHatbot AI
+* CHAI: A CHatbot AI
 [[https://arxiv.org/abs/2204.08426][https://img.shields.io/badge/arXiv-2204.08426-red.svg]] [[https://opensource.org/licenses/MIT][https://img.shields.io/badge/License-MIT-yellow.svg]]
 
 This repository contains the code for [[https://siddharthverma314.github.io/research/chai-acl-2022/][CHAI: A CHatbot AI for Task-Oriented Dialogue with Offline Reinforcement Learning]].
