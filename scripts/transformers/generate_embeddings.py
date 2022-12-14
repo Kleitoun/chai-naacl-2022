@@ -49,7 +49,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("checkpoint_dir")
     parser.add_argument("--sentences", default="./sentences.pkl")
-    parser.add_argument("--input-file", default="../../data/train.json")
+    parser.add_argument("--input-file", default="./data/train.json")
     parser.add_argument("--output-file", default="embeddings.pkl")
     args = parser.parse_args()
 
