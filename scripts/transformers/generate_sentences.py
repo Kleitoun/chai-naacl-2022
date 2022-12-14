@@ -7,7 +7,7 @@ import torch
 
 parser = argparse.ArgumentParser()
 parser.add_argument("checkpoint_dir")
-parser.add_argument("--input-file", default="../../data/train.json")
+parser.add_argument("--input-file", default="./data/train.json")
 parser.add_argument("--output-file", default="sentences.pkl")
 parser.add_argument("--num-outputs", type=int, default=5)
 args = parser.parse_args()
